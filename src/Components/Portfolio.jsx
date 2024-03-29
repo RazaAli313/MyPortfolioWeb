@@ -34,25 +34,25 @@ const projectList = [
     title: "Tic Tac Toe Game using JavaScript and Tailwind 🎉",
     description:
       "Developed this fully user interactive and customized game using ,HTML,JS and Tailwind CSS",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/RazaAli313/Tic_Tac_Toe_Game_Js",
   },
   {
     title: "Flipkart Clone Project",
     description:
       "One of the project i have developed during my front-end beginning journey",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/RazaAli313/Flipkart_Clone_Project",
   },
   {
     title: "Amnesty International Clone Project",
     description:
       "Created this Clone Project using HTML,CSS and JS, a beginner Front-end Project",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/RazaAli313/Amnesty_International_Clone_Project",
   },
   {
     title: "Facebook Login Page",
     description:
       "I have built a Facebook Login Page using Js and Tailwind",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://github.com/RazaAli313/Fb_Login_Page_Clone_Project",
   },
 ];
 
